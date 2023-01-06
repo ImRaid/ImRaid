@@ -2,7 +2,7 @@
 
 <div align="center">
   Welcome to my profile! I'm Raid! 
-     I like to do Discord bots
+     Ukrainian developer, who likes developing something new
     </div>
     <div align="center">
        <a href="https://discord.gg/dEmXu2gK9x">
