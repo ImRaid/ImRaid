@@ -2,7 +2,7 @@
 
 <div align="center">
   Welcome to my profile! I'm Raid! 
-     Ukrainian developer, who likes developing something new
+     Ukrainian developer, who likes to develop something new
     </div>
     <div align="center">
        <a href="https://discord.gg/dEmXu2gK9x">
